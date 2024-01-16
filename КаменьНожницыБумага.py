@@ -13,7 +13,7 @@ score.grid(row=2)
 ebveibvfeg
 score: 1:1
 Егор негр  
-    мать сдохлmn
+    мать сдохлm
 wf  wef wfe    
     
 """
