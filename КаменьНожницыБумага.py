@@ -12,7 +12,7 @@ score.grid(row=2)
 """
 ebveibvfeg
 score: 1:1
-    
+Егор негр  
     
 wf  wef wfe    
     
